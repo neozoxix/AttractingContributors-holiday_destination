@@ -58,3 +58,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/1086 (Discussion)
 18. Tonkotsu Ramen - Rich, creamy broth made from pork bones, often cooked for hours to extract maximum flavor.
 19. Ramen-ya Mitsuba (URL: http://www.ramenya-mitsuba.com/).
 20. Kappa Ramen Hompo Oshikuma (https://g.co/kgs/VJ6c5Dn)
+21. Honolu Ramen (https://halalramen-honolu.net/)
